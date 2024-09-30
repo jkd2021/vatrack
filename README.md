@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation for the QD-based VATrack method of the following paper: 
 
-> [**End-to-end Amodal Video Instance Segmentation**](https://to-do)<br>
+> [**End-to-end Amodal Video Instance Segmentation**](https://www.researchgate.net/publication/378157789_End-to-end_Amodal_Video_Instance_Segmentation)<br>
 
 > **Abstract:** 
 *Amodal perception is the important ability of humans
